@@ -26,7 +26,7 @@ Some of the guides i have used are from [markdown here](https://github.com/adam-
 ##Feature Requests
 A feature request is basicaly you (the person with the idea) telling us (the developers) that you want __this__ feature in the mod, but don't know how / don't want to add it yourself.
 The only diiffrence between this and an issue report lies in the title.
-The begining should proudly frature a [Feature Request] thing, folowed by what you want added.
+The begining should proudly boast a [Feature Request] thing, folowed by what you want added.
 The discription body should contain what exactly this feature should do.
 
 ***
